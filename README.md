@@ -18,15 +18,13 @@ I operate with the motto: **"Building to be 1% better every day."**
 
 These repositories are the primary evidence of my skills. I am actively developing them to bridge the gap between academic theory and professional practice.
 
-1.  **🛡️ SecureLog Analyzer (Python)**
-    * A Python-based tool to automate the parsing and analysis of server log files (e.g., Apache, system logs) for suspicious activity, IOCs, and brute-force attempts.
+1.  [🛡️ SecureLog Analyzer (Python)](https://github.com/Zaxionyx/SecureLog)
+    * A Python-based tool to automate the parsing and analysis of server log files (e.g., Apache, system logs) for suspicious activity, IOCs, and brute-force attempts. (On-Going)
     * *Skills Demonstrated: Python, Log Analysis, Regex, Blue Team Operations, Data Structures.*
-    * **(We will link this to your `SecureLog` repo once it's optimized.)**
 
-2.  **🔐 Python Password Manager (Python)**
-    * A secure, local password manager built with Python, focusing on strong encryption (using `cryptography` library) and secure coding principles. Features a GUI built with Tkinter.
-    * *Skills Demonstrated: Python, Secure Software Development, Cryptography, GUI (Tkinter).*
-    * **(We will link this to your `Password Manager` repo for the post on Monday, Nov 17th.)**
+2.  [🔐 Python Password Manager (Python)](https://github.com/Zaxionyx/Password-Manager)
+    * A secure, local password manager built with Python, focusing on strong encryption (using `cryptography` library) and secure coding principles. Features a GUI built with Tkinter (In the future).
+    * *Skills Demonstrated: Python, Secure Software Development, Cryptography.*
 
 ---
 
