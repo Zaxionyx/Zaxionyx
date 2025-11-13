@@ -1,4 +1,4 @@
-# Hi there, I'm Adnan 'Zax' Al Hmoud 👋
+# Hi there, I'm Adnan Al Hmoud 👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/Cybersecurity_Practitioner-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+U2hpZWxkPC90aXRsZT48cGF0aCBkPSJNMTIgLjI4OUM1LjM3My4yODkgMCA1LjY2MiAwIDEyLjI5MVMyLjQgMjQgMTIgMjRzMTItNy43MjkgMTItMTMuNDE0UzE4LjYyNy4yODkgMTIgLjI4OXptMCAxLjc1YzUuMzg1IDAgOS43NzggMy42NTIgOS43NzggMTAuMjUycy0yLjE4NCAxMS42NjctOS43NzggMTEuNjY3UzIuMjIyIDE5LjM4IDIuMjIyIDEyLjI5QzIuMjIyIDUuNjkzIDYuNjE1adinaAyYy0uNDMyLS43NzgtLjQzMi43NzgtLjQzMi43NzgtLjQzMi43NzcgMS4zMTMgMi4yMDMgMS4zMTItMi4yMDItLjQzMi0uNzc3LS40MzItLjc1eiIvPjwvc3ZnPg==">
