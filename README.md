@@ -10,7 +10,7 @@ I'm a Cybersecurity Bachelor's Student at **Princess Sumaya University for Techn
 
 My core focus is on defensive security (**Blue Team**), **Python automation**, and **Incident Response**. I enjoy building practical tools to solve real-world problems and analyzing data to uncover security threats.
 
-I operate with the motto: **"Building to be 1% better every day."**
+
 
 ---
 
