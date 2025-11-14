@@ -52,7 +52,7 @@ These repositories are the primary evidence of my skills. I am actively developi
 
 ### 📫 How to Connect
 
-I am actively seeking **internship** and **entry-level professional roles** (SOC, Infrastructure, or Automation) in **Amman, Jordan**. Let's connect.
+I am actively seeking **internship** and **entry-level professional roles** (SOC, Infrastructure, or Automation). Let's connect.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/adnan-al-hmoud/" target="_blank">
